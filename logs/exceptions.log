@@ -1,0 +1,6 @@
+21:08:57.955 [main] ERROR ExceptionsFile - java.io.FileNotFoundException: sdfdsf (Не удается найти указанный файл)
+21:17:38.997 [main] ERROR ExceptionsFile - java.io.FileNotFoundException: fsdfds (Не удается найти указанный файл)
+21:18:08.051 [main] ERROR ExceptionsFile - java.io.FileNotFoundException: da (Не удается найти указанный файл)
+21:18:45.433 [main] ERROR ExceptionsFile - java.io.FileNotFoundException: sdf (Не удается найти указанный файл)
+21:19:35.650 [main] ERROR ExceptionsFile - java.io.FileNotFoundException: sdfds (Не удается найти указанный файл)
+21:37:10.472 [main] ERROR ExceptionsFile - java.io.FileNotFoundException: fs (Не удается найти указанный файл)
